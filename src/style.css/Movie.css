@@ -1,0 +1,8 @@
+.card-image{
+    
+        margin: 80px 80px;
+        box-shadow: 3px 3px grey;
+        background-color: rgb(238, 237, 237);
+        border: ridge 5px 5px 5px 5px rgb(10, 10, 10);
+      
+  }
